@@ -52,6 +52,6 @@ let imdbHandler = async (m, { conn, text }) => {
 
 imdbHandler.help = ['imdb']
 imdbHandler.tags = ['tools']
-imdbHandler.command = /^(imdb|movie)$/i
+imdbHandler.command = /^(imdb)$/i
 
 export default imdbHandler

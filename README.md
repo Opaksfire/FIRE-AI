@@ -35,6 +35,11 @@ This project  uses Mega.nz's services exclusively for generating session IDs. Th
 <a href='https://replit.com/@opaksmt/Fire-MD-bot-pair?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
+3. Get session id 2 link
+    <br>
+<a href='https://firemd-bot-pair.onrender.com/' target="_blank"><img alt='SESSION ID 2' src='https://img.shields.io/badge/Session_id2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+
 ### DEPLOY ON PANEL 
 
 1. This is a different type of panel free panel better than bot-hosting

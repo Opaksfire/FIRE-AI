@@ -30,6 +30,9 @@ let groupmenu = `
  🔥 .staff
  🔥 .tagall
  🔥 .totag
+ 🔥 .online
+ 🔥 .offline
+ 🔥 .kickall
  🔥 .warn @user
  🔥 .warns
  🔥 .main
@@ -126,13 +129,19 @@ let dlmenu = `
  🔥 .gitclone <url>
  🔥 .igstalk
  🔥 .instagram
+ 🔥 .fb
+ 🔥 .tik
  🔥 .mediafire <url>
  🔥 .mega
- 🔥 .modapk
+ 🔥 .apk
  🔥 .play <query>
- 🔥 .play2 <text>
- 🔥 .playvid <text>
- 🔥 .spotify
+ 🔥 .song <text>
+ 🔥 .mp3 <text>
+ 🔥 .music <text>
+ 🔥 .ig
+ 🔥 .movie <text>
+ 🔥 .video <text>
+ 🔥 .ytv <url>
  🔥 .tiktok <url>
  🔥 .tiktokstalk
  🔥 .twitter <url>
@@ -217,6 +226,7 @@ let audiomenu = `
  🔥 .reverse [vn]
  🔥 .robot [vn]
  🔥 .slow [vn]
+ 🔥 .say
  🔥 .smooth [vn]
  🔥 .tupai [vn]
   ╰──────────⳹`
@@ -416,6 +426,9 @@ let toolsmenu = `
  🔥 .true
  🔥 .tts <lang> <task>
  🔥 .wa
+ 🔥 .crypto
+ 🔥 .ip
+ 🔥 .currency
  🔥 .wikipedia
   ╰──────────⳹`
 
